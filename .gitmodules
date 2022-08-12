@@ -1,0 +1,6 @@
+[submodule "pytest-cannier"]
+	path = pytest-cannier
+	url = git@github.com:flake-it/pytest-cannier.git
+[submodule "cannier-framework"]
+	path = cannier-framework
+	url = git@github.com:flake-it/cannier-framework.git

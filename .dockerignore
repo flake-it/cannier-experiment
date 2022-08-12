@@ -1,0 +1,6 @@
+*
+!subjects.json
+!requirements.txt
+!subjects/
+!pytest-cannier/
+!cannier-framework/
