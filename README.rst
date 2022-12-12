@@ -38,6 +38,8 @@ To perform the experiment from start to finish, issue these commands in order:
 3. ``venv/bin/cannier run features victim``
 4. ``venv/bin/cannier collate``
 5. ``venv/bin/cannier shap``
-6. ``venv/bin/cannier preds``
-7. ``venv/bin/cannier points``
-8. ``venv/bin/cannier figures``
+6. ``venv/bin/cannier preds config``
+7. ``venv/bin/cannier preds best``
+8. ``venv/bin/cannier preds features``
+9. ``venv/bin/cannier points``
+10. ``venv/bin/cannier figures``
