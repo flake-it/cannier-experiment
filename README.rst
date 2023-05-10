@@ -43,3 +43,5 @@ To perform the experiment from start to finish, issue these commands in order:
 8. ``venv/bin/cannier preds features``
 9. ``venv/bin/cannier points``
 10. ``venv/bin/cannier figures``
+
+If you are having trouble building the Docker image, you can download it pre-built `here <https://drive.google.com/file/d/10CiV7KdRNP3X3BvFM5YuEovmjztl1CUD/view?usp=share_link>`_ (around 7 GiB compressed). Once downloaded, uncompress and load into Docker using ``docker load < cannier-experiment.tar``.
